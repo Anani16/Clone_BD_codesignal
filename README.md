@@ -69,9 +69,3 @@ On en distingue entre autre:
 On en distingue entre autre:
 * Forum de discussion lié à l’exercice en cours(users, la date, le message, réponse)
 * Report commentaire
-
-
-
-
-
-Toshiba clavier
