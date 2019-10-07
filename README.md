@@ -26,7 +26,7 @@
 
 
 
-———————————————— ACARDES —————————————————————— 
+———————————————— —————————————————————— 
 			III - CONTENU DU DASHBOARD
 
 	A -  Liste des rubriques
@@ -152,4 +152,21 @@ On en distingue:
 3 - My Tasks
 
 4 -  Badges
-* Description
+	- Description
+	- Pourcentage
+	- Logo
+	- Plusieurs type de badge
+
+
+———————————————————  FORUM ———————————————————
+
+* Les catégories ( 10 exactements)
+* Poste
+	- Reactions
+	- Commentaires
+	- Categories
+	- Nom
+	- Photo
+	- Titre
+	- Date
+	- + new poste
