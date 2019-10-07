@@ -27,7 +27,7 @@ Réalisation de la base de données de codesignal
 		e - Interview pour recruteur
 		f - lien direct vers le niveau d’arcade actuel
 
------------------------------------------------------------- ARCADE ----------------------------------------------------------
+------------------------------------------------------- ARCADE -----------------------------------------------------
 
 			III - CONTENU DU DASHBOARD
 
